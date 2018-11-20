@@ -49,6 +49,8 @@ Interesingly , room availability do not vary that much beside March and December
 
 b)Mean prices analysis per month?
 
+![image](https://user-images.githubusercontent.com/8425221/48756822-9d9f0b00-ec68-11e8-9ef2-cf67202ed274.png)
+
 
 
 
