@@ -51,12 +51,12 @@ b)Mean prices analysis per month?
 
 ![image](https://user-images.githubusercontent.com/8425221/48756822-9d9f0b00-ec68-11e8-9ef2-cf67202ed274.png)
 
+From above figure , we can get precise idea about mean prices analysis per month ,when prices are low in the winter and high in summer period.
 
 
 
 
-
-c)Price detection on the basis of available dataset?
+c)Price variance with the number of bedrooms:
 
 ![image](https://user-images.githubusercontent.com/8425221/48756772-69c3e580-ec68-11e8-816c-66c6fd775273.png)
 
