@@ -56,6 +56,7 @@ b)Mean prices analysis per month?
 
 c)Price detection on the basis of available dataset?
 
+![image](https://user-images.githubusercontent.com/8425221/48756772-69c3e580-ec68-11e8-816c-66c6fd775273.png)
 
 
 
