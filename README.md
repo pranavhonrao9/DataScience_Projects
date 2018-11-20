@@ -12,7 +12,9 @@ The following Airbnb activity is included in this Seattle dataset: * Listings, i
 # Inspiration
 
 a)How  room avaiablity varies through out the year in Seattle?
+
 b)Mean prices analysis per month?
+
 c)Price detection on the basis of available dataset?
 
 
