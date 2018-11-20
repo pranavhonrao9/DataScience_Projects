@@ -40,7 +40,12 @@ https://scikit-learn.org/stable/
 # Analysis
 After the data exploration and analysis , following is the analysis I was able derive:
 
-a.a)How  room avaiablity varies through out the year in Seattle?
+a)How  room avaiablity varies through out the year in Seattle?
+![image](https://user-images.githubusercontent.com/8425221/48756454-40ef2080-ec67-11e8-97d2-8e50971c951d.png)
+
+
+
+
 
 
 
