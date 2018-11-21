@@ -61,7 +61,8 @@ c)Price variance with the number of bedrooms:
 ![image](https://user-images.githubusercontent.com/8425221/48756772-69c3e580-ec68-11e8-816c-66c6fd775273.png)
 
 
-
+# Blog Post Link:
+https://medium.com/@honrao.pranav/interesting-facts-about-seattle-airbnb-usage-in-2016-7d3e20e81e82
 
 # Reference:
 1. https://www.kaggle.com/airbnb/seattle/home
