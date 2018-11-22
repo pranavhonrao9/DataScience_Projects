@@ -31,8 +31,11 @@ https://www.kaggle.com/airbnb/seattle
 # Libraries
 
 http://www.numpy.org/
+
 https://pandas.pydata.org/
+
 https://matplotlib.org/
+
 https://scikit-learn.org/stable/
 
 
