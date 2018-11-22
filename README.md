@@ -51,7 +51,7 @@ b)Mean prices analysis per month?
 
 ![image](https://user-images.githubusercontent.com/8425221/48756822-9d9f0b00-ec68-11e8-9ef2-cf67202ed274.png)
 
-From above figure , we can get precise idea about mean prices analysis per month ,when prices are low in the winter and high in summer period.
+For the prices , average mean prices are less in the month of Jan and Feb which is fair as inclement weather can affect people choices to out. On contractory , summer time is most favorable time in the year where people prefer to go outside locations.Hence , we can see in significient  spike in prices in summer duration.
 
 
 
