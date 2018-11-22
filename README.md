@@ -43,14 +43,14 @@ https://scikit-learn.org/stable/
 # Analysis
 After the data exploration and analysis , following is the analysis I was able derive:
 
-a)How  room avaiablity varies through out the year in Seattle?
+# a)How  room avaiablity varies through out the year in Seattle?
 ![image](https://user-images.githubusercontent.com/8425221/48756454-40ef2080-ec67-11e8-97d2-8e50971c951d.png)
 From the above graph, I can see January ,Feburary has less rooms available which make sense to me. As people would not prefer to put home on airbnb becuase of winter season. Also, in summer days Seattle being one of the famous cities to visit ,less rooms are avaiable.
 
 Interesingly , room availability do not vary that much beside March and December. I think ,in march people start putting there home on Airbnb listings but do not get that much of response causing high number of rooms avaiable. This is maybe because ,people travel less during that period. Surprisingly for December, room availability is high.
 
 
-b)Mean prices analysis per month?
+# b)Mean prices analysis per month?
 
 ![image](https://user-images.githubusercontent.com/8425221/48756822-9d9f0b00-ec68-11e8-9ef2-cf67202ed274.png)
 
@@ -59,7 +59,7 @@ For the prices , average mean prices are less in the month of Jan and Feb which 
 
 
 
-c)Price variance with the number of bedrooms:
+# c)Price variance with the number of bedrooms:
 
 ![image](https://user-images.githubusercontent.com/8425221/48756772-69c3e580-ec68-11e8-816c-66c6fd775273.png)
 
