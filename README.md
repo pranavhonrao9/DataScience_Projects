@@ -15,7 +15,7 @@ b)Reviews, including unique id for each reviewer and detailed comments
 
 c)Calendar, including listing id and the price and availability for that day
 
-# Inspiration
+# Business Questions
 
 a)How  room avaiablity varies through out the year in Seattle?
 
@@ -59,6 +59,8 @@ For the prices , average mean prices are less in the month of Jan and Feb which 
 c)Price variance with the number of bedrooms:
 
 ![image](https://user-images.githubusercontent.com/8425221/48756772-69c3e580-ec68-11e8-816c-66c6fd775273.png)
+
+As expected , number of bedrooms is one of the prime feature to determine the price of the house. More the number of bedrooms ,looks like having highest price and lower the number of bedrooms has the lower number of prices.
 
 
 # Blog Post Link:
